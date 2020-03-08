@@ -1,0 +1,33 @@
+﻿<Window x:Class="CustomerMVVM.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CustomerMVVM"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="5" Width="300">
+    <Grid Width="300" ClipToBounds="True" Background="AntiqueWhite">
+        <TextBlock Foreground="Red" Text="This is the message list" FontStyle="Italic" FontWeight="Bold">
+            <TextBlock.RenderTransform>
+                <TranslateTransform x:Name="translate" />
+            </TextBlock.RenderTransform>
+            <TextBlock.Triggers>
+                <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+                    <BeginStoryboard>
+                        <Storyboard RepeatBehavior="Forever">
+                            <DoubleAnimation 
+                                From="300" To="-300" 
+                                Storyboard.TargetName="translate" 
+                                Storyboard.TargetProperty="X"
+                                Duration="0:0:9"
+                                SpeedRatio="1"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </TextBlock.Triggers>
+           </TextBlock>
+    </Grid>
+
+
+
+</Window>

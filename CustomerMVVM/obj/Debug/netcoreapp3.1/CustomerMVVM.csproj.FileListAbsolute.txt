@@ -1,0 +1,17 @@
+C:\Users\somti\source\repos\CustomerMVVM\CustomerMVVM\bin\Debug\netcoreapp3.1\CustomerMVVM.exe
+C:\Users\somti\source\repos\CustomerMVVM\CustomerMVVM\bin\Debug\netcoreapp3.1\CustomerMVVM.deps.json
+C:\Users\somti\source\repos\CustomerMVVM\CustomerMVVM\bin\Debug\netcoreapp3.1\CustomerMVVM.runtimeconfig.json
+C:\Users\somti\source\repos\CustomerMVVM\CustomerMVVM\bin\Debug\netcoreapp3.1\CustomerMVVM.runtimeconfig.dev.json
+C:\Users\somti\source\repos\CustomerMVVM\CustomerMVVM\bin\Debug\netcoreapp3.1\CustomerMVVM.dll
+C:\Users\somti\source\repos\CustomerMVVM\CustomerMVVM\bin\Debug\netcoreapp3.1\CustomerMVVM.pdb
+C:\Users\somti\source\repos\CustomerMVVM\CustomerMVVM\obj\Debug\netcoreapp3.1\CustomerMVVM.csprojAssemblyReference.cache
+C:\Users\somti\source\repos\CustomerMVVM\CustomerMVVM\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\somti\source\repos\CustomerMVVM\CustomerMVVM\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\somti\source\repos\CustomerMVVM\CustomerMVVM\obj\Debug\netcoreapp3.1\CustomerMVVM_MarkupCompile.cache
+C:\Users\somti\source\repos\CustomerMVVM\CustomerMVVM\obj\Debug\netcoreapp3.1\CustomerMVVM_MarkupCompile.lref
+C:\Users\somti\source\repos\CustomerMVVM\CustomerMVVM\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\somti\source\repos\CustomerMVVM\CustomerMVVM\obj\Debug\netcoreapp3.1\CustomerMVVM.g.resources
+C:\Users\somti\source\repos\CustomerMVVM\CustomerMVVM\obj\Debug\netcoreapp3.1\CustomerMVVM.AssemblyInfoInputs.cache
+C:\Users\somti\source\repos\CustomerMVVM\CustomerMVVM\obj\Debug\netcoreapp3.1\CustomerMVVM.AssemblyInfo.cs
+C:\Users\somti\source\repos\CustomerMVVM\CustomerMVVM\obj\Debug\netcoreapp3.1\CustomerMVVM.dll
+C:\Users\somti\source\repos\CustomerMVVM\CustomerMVVM\obj\Debug\netcoreapp3.1\CustomerMVVM.pdb
